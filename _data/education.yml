@@ -2,5 +2,5 @@
 - degree: Computer Science
   uni: Università degli Studi di Bari
   year: September, 2006 &mdash; February, 2011
-  grade: 110/110
-  thesis: OLAPBIRCH: integration of a hierarchical clustering algorithm to support OLAP technologies 
+#   grade: 110/110
+#   thesis: OLAPBIRCH: integration of a hierarchical clustering algorithm to support OLAP technologies 
